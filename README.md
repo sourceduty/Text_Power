@@ -44,9 +44,7 @@ Formality of language
 #
 ### Example Text, Doc and Book Power Ratings
 
-The Book of Small by Emily Carr (Example_1)
-<br>
-⚡ Power Score: 6/10
+The Book of Small by Emily Carr (Example_1) ⚡ Power Score: 6/10
 
 ```
 Semantic Richness: The text is descriptively rich, with evocative imagery and a strong sense of setting and nostalgia. However, it focuses primarily on personal, localized experiences, limiting its universal resonance.
@@ -60,9 +58,7 @@ Linguistic Dominance: Repeats key motifs such as family roles and Sunday routine
 Influence Strategies: Relies on personal narrative and immersive descriptions to draw the reader in, but lacks broader argumentative or persuasive framing.
 ```
 
-Notes on Writing by Fredo Durand (Example_3)
-<br>
-⚡ Power Score: 8/10
+Notes on Writing by Fredo Durand (Example_3) ⚡ Power Score: 8/10
 
 ```
 Semantic Richness: The text balances technical precision with clear advice. It avoids overly technical jargon, making it accessible to both novices and experienced writers.
@@ -76,9 +72,7 @@ Linguistic Dominance: Key terms such as "clarity" and "contribution" are reitera
 Influence Strategies: Frames writing as an iterative and learnable process, reducing intimidation. Provides constructive advice without condescension.
 ```
 
-Guideline for Good Clinical Practice by ICH (Example_2)
-<br>
-⚡ Power Score: 9/10
+Guideline for Good Clinical Practice by ICH (Example_2) ⚡ Power Score: 9/10
 
 ```
 Semantic Richness: Dense with technical and regulatory terminology, ensuring clarity and precision for professional readers.
