@@ -101,6 +101,10 @@ Influence Strategies: Leverages legal, ethical, and professional imperatives to 
 ```
 
 #
+
+> Alex: "*In Newton's third law of motion an object (reactant) applies a force (action) on a second object, this reactant will apply a force (reaction) back on the first reactant.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
