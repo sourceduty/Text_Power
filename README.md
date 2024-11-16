@@ -15,7 +15,7 @@ At its core, information power is about control and agency: the capacity to fram
 #
 ### Text Reactions
 
-In Newton's third law of motion, a file (reactant) exerts a force (action) on a second file, and this second file (reactant) exerts an equal and opposite force (reaction) back on the first file.
+In Newton's third law of motion, a text file (reactant) exerts a force (action) on a second text file, and this second text file (reactant) exerts an equal and opposite force (reaction) back on the first text file.
 
 Force as power in text highlights the capacity of language to compel, direct, or coerce action, often by exerting control over the narrative or framing. This concept of textual force is integral in settings where persuasion, authority, or even subtle manipulation is key. A commanding text uses linguistic elements like power verbs, active voice, and direct calls to action to assert its influence over the audience. It projects authority, often leaving little room for dissent or alternative interpretations. This force is not always overt; it can manifest through emotional appeals, repetition of key phrases, or presenting arguments as self-evident truths. In essence, force as power in text acts as a tool to guide, dictate, or enforce, leveraging its authority to elicit compliance or agreement.
 
